@@ -19,6 +19,8 @@
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
-    "cypress": "^15.14.0"
+    "axe-core": "^4.11.3",
+    "cypress": "^15.14.0",
+    "cypress-axe": "^1.7.0"
   }
 }
