@@ -21,4 +21,4 @@ It's great to have you here. I'm sure you will love this course. ❤️
 
 ___
 
-This is a course by [**Talking About Testing School**](https://www.udemy.com/user/walmyr).
+Check out the [**Cypress Simulator**](https://cypresssimulator.com) course.
