@@ -19,7 +19,7 @@
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
-    "axe-core": "^4.12.1",
+    "axe-core": "^4.13.0",
     "cypress": "^15.20.0",
     "cypress-axe": "^1.7.0",
     "cypress-split": "^1.25.0"
